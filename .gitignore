@@ -61,7 +61,7 @@ typings/
 .DS_Store
 
 # Ignore build
-/build
+# /build
 
 # Ignore Terraform stuff in examples
 .terraform
